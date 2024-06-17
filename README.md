@@ -21,7 +21,7 @@ $ bash download.sh
 Enter the `/processed_data` directory, run:
 ```
 $ bash download.sh
-$ tar -zxvf Balance-map_full_data_processed
+$ tar -zxvf Balance-map_full_data_processed.tar.gz
 ```
 
 Then we can prepare to start running our work.
